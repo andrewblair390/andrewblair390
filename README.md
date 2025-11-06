@@ -1,7 +1,7 @@
 ![Image failed to load](header.png)
 Im currently a student at Texas A&M university trying to get into Computer science. I love to attend hackathons, dabble in competitive programming, and enjoy making things that I personally enjoy.
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 
 
@@ -28,5 +28,9 @@ Im currently a student at Texas A&M university trying to get into Computer scien
 ![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?logo=google-slides&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white)
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewblair390&show_icons=true)
 
 
